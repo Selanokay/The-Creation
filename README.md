@@ -6,4 +6,4 @@ Garrett Rodgers
 [The Journey](The-Journey.md)
 [The Gamer](The-Gamer.md)
 [World of Warcraft](World-Of-Warcraft.md)
-[League Of Legends](League-Of-Legends.md)
+[League Of Legends](League-of-Legends.md)

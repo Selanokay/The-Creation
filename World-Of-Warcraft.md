@@ -11,4 +11,4 @@ To find a new topic, please return to [Home](README.md) or please select from th
 [The Origins](The-Origins.md)
 [The Journey](The-Journey.md)
 [The Gamer](The-Gamer.md)
-[League Of Legends](League-Of-Legends.md)
+[League Of Legends](League-of-Legends.md)
