@@ -23,7 +23,8 @@ for i in range(10):
 turtle.done()
 ```
 To find a new topic, please return to [Home](README.md) or please select from the topics below.
-[The Origins](The-Origins.md)
-[The Gamer](The-Gamer.md)
-[World Of Warcraft](World-Of-Warcraft.md)
-[League Of Legends](League-of-Legends.md)
+__________________________________________________________________________________
+|[The Origins](The-Origins.md)|
+|[The Gamer](The-Gamer.md)|
+|[World of Warcraft](World-Of-Warcraft.md)|
+|[League of Legends](League-of-Legends.md)|

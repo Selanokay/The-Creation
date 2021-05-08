@@ -12,7 +12,8 @@ Garrett has grown up his whole life a gamer. When he was at a very young age he 
 - **Diablo**
 
 To find a new topic, please return to [Home](README.md) or please select from the topics below.
-[The Origins](The-Origins.md)
-[The Journey](The-Journey.md)
-[World Of Warcraft](World-Of-Warcraft.md)
-[League Of Legends](League-of-Legends.md)
+__________________________________________________________________________________
+|[The Origins](The-Origins.md)|
+|[The Journey](The-Journey.md)|
+|[World of Warcraft](World-Of-Warcraft.md)|
+|[League of Legends](League-of-Legends.md)|

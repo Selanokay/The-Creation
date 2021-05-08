@@ -8,7 +8,8 @@ After a couple of years, Garrett began exploring some of the other classes in th
 
 
 To find a new topic, please return to [Home](README.md) or please select from the topics below.
-[The Origins](The-Origins.md)
-[The Journey](The-Journey.md)
-[The Gamer](The-Gamer.md)
-[League Of Legends](League-of-Legends.md)
+__________________________________________________________________________________
+|[The Origins](The-Origins.md)|
+|[The Journey](The-Journey.md)|
+|[The Gamer](The-Gamer.md)|
+|[League of Legends](League-of-Legends.md)|

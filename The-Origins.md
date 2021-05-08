@@ -6,7 +6,8 @@ Garrett Rodgers was born in Poplar Bluff, Missouri in the year 2000. Shortly int
 (Junior High that Garrett attended in Puxico)
 
 To find a new topic, please return to [Home](README.md) or please select from the topics below.
-[The Journey](The-Journey.md)
-[The Gamer](The-Gamer.md)
-[World Of Warcraft](World-Of-Warcraft.md)
-[League Of Legends](League-of-Legends.md)
+__________________________________________________________________________________
+|[The Journey](The-Journey.md)|
+|[The Gamer](The-Gamer.md)|
+|[World of Warcraft](World-Of-Warcraft.md)|
+|[League of Legends](League-of-Legends.md)|
