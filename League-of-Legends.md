@@ -15,7 +15,8 @@ Ekko is a young boy who solved the impossible equations of time to save his grou
 Gragas is an absolute **UNIT** of a man standing at a staggering 7'2 tall and weighing in at 735 pounds. His sole purpose in life is to find a never ending brew, with the perfect taste. The keg he carries around is magical and permanently keeps his brew at the perfect drinking temperature no matter what. He uses his massive stature and his keg to do away with his enemies with haste.
 
 To find a new topic, please return to [Home](README.md) or please select from the topics below.
-[The Origins](The-Origins.md)
-[The Journey](The-Journey.md)
-[The Gamer](The-Gamer.md)
-[World of Warcraft](World-Of-Warcraft.md)
+__________________________________________________________________________________
+|[The Origins](The-Origins.md)|
+|[The Journey](The-Journey.md)|
+|[The Gamer](The-Gamer.md)|
+|[World of Warcraft](World-Of-Warcraft.md)|
